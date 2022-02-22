@@ -1,0 +1,9 @@
+INSERT INTO clientes (nombre, apellido, carnet,create_at) VALUES ('Marcos', 'Sevilla', 7879187,'2012-01-01');
+INSERT INTO clientes (nombre, apellido, carnet,create_at) VALUES ('Fernando', 'Padilla', 6719187,'2012-01-01');
+INSERT INTO clientes (nombre, apellido, carnet,create_at) VALUES ('Josue', 'Flores', 6799187,'2012-01-01');
+INSERT INTO clientes (nombre, apellido, carnet,create_at) VALUES ('Pedro', 'Torrez', 5699187,'2012-01-01');
+INSERT INTO clientes (nombre, apellido, carnet,create_at) VALUES ('Mamani', 'Umiña', 4599187,'2012-01-01');
+INSERT INTO clientes (nombre, apellido, carnet,create_at) VALUES ('Joel', 'Quispe', 3499187,'2012-01-01');
+INSERT INTO clientes (nombre, apellido, carnet,create_at) VALUES ('Juan', 'Vargas', 2399187,'2012-01-01');
+INSERT INTO clientes (nombre, apellido, carnet,create_at) VALUES ('Pablo', 'Mandalorian', 1299187,'2012-01-01');
+INSERT INTO clientes (nombre, apellido, carnet,create_at) VALUES ('Coco', 'Chuy', 1299187,'2012-01-01');
